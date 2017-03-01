@@ -81,7 +81,7 @@
       "<rootDir>/node_modules/enzyme-to-json/serializer"
     ],
     "testPathIgnorePatterns": [
-      "<rootDir>/(commonjs|coverage|flow-typed|node_modules|tools|umd)/"
+      "<rootDir>/(dist|coverage|flow-typed|node_modules|tools|es)/"
     ]
   }
 }

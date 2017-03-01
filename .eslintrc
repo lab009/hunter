@@ -3,8 +3,5 @@
   "extends": "@lab009/eslint-config-magma",
   "plugins": [
     "flowtype"
-  ],
-  "ecmaFeatures": {
-    "defaultParams": true
-  }
+  ]
 }

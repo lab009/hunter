@@ -15,6 +15,5 @@ try {
   exec('flow')
 } catch (err) {
   // Flow will print any errors.
-  console.log('ERR', err)
   process.exit(1)
 }
