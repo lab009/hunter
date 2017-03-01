@@ -1,5 +1,8 @@
 # @lab009/hunter
 
+[![npm](https://img.shields.io/npm/v/@lab009/hunter.svg?style=flat-square)](http://npm.im/@lab009/hunter)
+[![Travis](https://img.shields.io/travis/lab009/hunter.svg?style=flat-square)](https://travis-ci.org/lab009/hunter)
+[![Codecov](https://img.shields.io/codecov/c/github/lab009/hunter.svg?style=flat-square)](https://codecov.io/github/lab009/hunter)
 [![Greenkeeper badge](https://badges.greenkeeper.io/lab009/hunter.svg)](https://greenkeeper.io/)
 
 Walk a React element tree, executing a provided visitor function against each element.
