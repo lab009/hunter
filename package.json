@@ -39,7 +39,7 @@
     "test:coverage:deploy": "yarn run test:coverage && codecov"
   },
   "peerDependencies": {
-    "react": "^15.0.0"
+    "react": "^15.5.4"
   },
   "devDependencies": {
     "@lab009/babel-preset-magma": "3.0.2",
